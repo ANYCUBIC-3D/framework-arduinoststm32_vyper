@@ -1,0 +1,4 @@
+commit 17fd01f9ff569cc55de975da6a5742a8aab6d004
+Author: Frederic Pillon <frederic.pillon@st.com>
+
+    [PYBStick] Remove non standard character from the name
